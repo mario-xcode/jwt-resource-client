@@ -1,0 +1,8 @@
+logging:
+  level:
+    org.springframework.security: info
+token:
+  signing:
+    key: 0aOvsHcUMIDdyRh/RXn44VO61wslXDFA8q1VhBnN884=
+server:
+  port: 8080
